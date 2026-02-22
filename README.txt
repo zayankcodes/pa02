@@ -1,6 +1,6 @@
-Last name of Student 1:
-First name of Student 1:
-Email of Student 1:
+Last name of Student 1: Khan
+First name of Student 1:Zayan
+Email of Student 1:zayan@ucsb.edu
 Last name of Student 2:
 First name of Student 2:
 Email of Student 2:
